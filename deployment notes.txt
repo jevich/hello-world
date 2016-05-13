@@ -1,0 +1,4 @@
+1. Copy the new xml; make changes depending on environment, including exclusion directory list.
+2. Copy the new exe from the bin directory.
+3. Create the new directory PMSBAD (same share props as PMSARCHIVE). Production already has PMSBAD* (or something.)
+4. Create the new directory PMSLOG (same share props as PMSARCHIVE)
